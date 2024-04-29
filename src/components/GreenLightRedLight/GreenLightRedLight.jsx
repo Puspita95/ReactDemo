@@ -72,6 +72,7 @@ const Box = styled.div`
   background-color: ${(props) => props.color};
 `;
 const WrapperDiv = styled.div`
+
   display: flex;
   flex-direction: column;
   justify-content: center;
