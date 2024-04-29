@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import GreenLightRedLight from './components/GreenLightRedLight/GreenLightRedLight';
 
@@ -7,7 +6,6 @@ function App() {
     <div className="">
       <header className="">
         <GreenLightRedLight/>
-        
       </header>
     </div>
   );
